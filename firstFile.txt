@@ -1,7 +1,7 @@
 This is the first file inside git_1 branch changed in the first commit
 This is the first file inside git_1 branch changed in the first commit
-This is the first file inside git_1 branch
-This is the first file inside git_1 branch
+This is the first file inside git_1 branch changed in the second commit
+This is the first file inside git_1 branch changed in the second commit
 This is the first file inside git_1 branch
 This is the first file inside git_1 branch
 This is the first file inside git_1 branch
