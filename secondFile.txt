@@ -1,7 +1,7 @@
 This is the second file inside git_1 branch
 This is the second file inside git_1 branch
-This is the second file inside git_1 branch
-This is the second file inside git_1 branch
+This is the second file inside git_1 branch modified in git_1
+This is the second file inside git_1 branch modified in git_1
 This is the second file inside git_1 branch
 This is the second file inside git_1 branch
 This is the second file inside git_1 branch
